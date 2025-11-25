@@ -1,1 +1,0 @@
-newman run "https://www.getpostman.com/collections/1d712ef1925b04cf4986?apiKey=PMAK-6396a5584effa2128cba6562-e5303e7ff0e5bf28f900a0f280f41d8d5d" -n 2 -r cli htmlextra junit --reporter-htmlextra-export ./WDV4416/WDV_4416_Newman_Reports.html --reporter-htmlextra-browserTitle "WDV 4416 Newman Tests Report" --reporter-htmlextra-title "WDV 4416 Newman Tests Dashboard"
